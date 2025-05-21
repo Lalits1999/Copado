@@ -9,7 +9,7 @@ public with sharing class DailyLeadProcessor implements Schedulable {
         }
 
         if (!leadsToUpdate.isEmpty()) {
-            update leadsToUpdate; // Perform the update
+             // Perform the update
         }
     }
 }
